@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.signup-form {
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.submit-btn {
+  text-align: center;
+}
